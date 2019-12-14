@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sugarorm</string>
+    <string name="edit_primero">Ingrese Título</string>
+    <string name="edit_segundo">Ingrese la Edición</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_modificar">Modificar</string>
+    <string name="btn_eliminar">Eliminar</string>
+    <string name="btn_consultaindividual">Consulta Individual</string>
+    <string name="edit_id">ID_individual</string>
+
+</resources>
